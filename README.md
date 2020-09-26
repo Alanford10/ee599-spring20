@@ -1,5 +1,5 @@
 # ee599-spring20
-USC EE 599 course projects
+USC EE 599: Deep Learning for Engineers course projects
 
 ## General Dependencies
 python >= 3.7

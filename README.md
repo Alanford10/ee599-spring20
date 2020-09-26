@@ -24,4 +24,4 @@ Dataset:
 ## LID Assignment
 Spoken Language Identiﬁcation (LID) is broadly deﬁned as recognizing the language of a given speech utterance [1]. It has numerous applications in automated language and speech recognition, multilingual machine translations, speech-to-speech translations, and emergency call routing. In this homework, we will try to classify three languages (English, Hindi and Mandarin) from the spoken utterances that have been crowd-sourced from the class.
 
-[My CV implementation](./language_identifier) and [document](./language_identifier/README.md)
+[My LID implementation](./language_identifier) and [document](./language_identifier/README.md)

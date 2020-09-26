@@ -29,7 +29,7 @@ The Traing scheme and model will be preserved under [log](./logs).
 
 ## Sample Results
 
-![loss](/logs/loss.png)
-![accuracy](/logs/accuracy.png)
-![learningrate](/logs/learningrate.png)
+![loss](./logs/loss.png)
+![accuracy](./logs/accuracy.png)
+![learningrate](./logs/learningrate.png)
 
